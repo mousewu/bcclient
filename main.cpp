@@ -17,6 +17,7 @@
 #include <atomic>
 #include <getopt.h>
 #include <signal.h>
+#include <iostream>
 
 using namespace bc;
 

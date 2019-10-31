@@ -22,7 +22,7 @@
 #include <algorithm>
 #include <sstream>
 #include <bitcoin/utility/assert.hpp>
-
+#include <iostream>
 namespace libbitcoin {
 
 // List of words from:
